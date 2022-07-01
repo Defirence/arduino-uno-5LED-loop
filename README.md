@@ -18,3 +18,5 @@ A Sketchbook based on a YouTube tutorial, lights up and loops 5 LED's in sequenc
 - Open the .ido file in your Arduino IDE, Verify and then Upload it.
 - Press Reset if required to clear it and run the new code.
 - Enjoy your blinking colorful LED's! :)
+
+Original YouTube Video: `/watch?v=e1FVSpkw6q4`
