@@ -1,7 +1,7 @@
 # arduino-uno-5LED-loop
 
 ### Description:
-A Sketchbook based on a YouTube tutorial, lights up and loops 5 LED's in sequence.
+A Sketchbook based on a YouTube tutorial, lights up and loops 5 LEDs in sequence.
 
 ### Requirements:
 - Arduino Uno
@@ -18,5 +18,12 @@ A Sketchbook based on a YouTube tutorial, lights up and loops 5 LED's in sequenc
 - Open the .ido file in your Arduino IDE, Verify and then Upload it.
 - Press Reset if required to clear it and run the new code.
 - Enjoy your blinking colorful LED's! :)
+
+### Pin Layout:
+- `LED1` -> `Board Pin 13`
+- `LED2` -> `Board Pin 12`
+- `LED3` -> `Board Pin 11`
+- `LED4` -> `Board Pin 10`
+- `LED5` -> `Board Pin 9`
 
 Original YouTube Video: `/watch?v=e1FVSpkw6q4`
